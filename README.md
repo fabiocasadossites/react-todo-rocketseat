@@ -2,11 +2,11 @@
 
 # Projeto Todo | Rocketseat
 
-Neste projeto desenvolvi um projeto ToDo, que lista as tarefas, conclui e exclui
+Neste projeto, desenvolvi uma aplicação ToDo que permite listar, concluir e excluir tarefas.
 
 ### Veja o projeto online
 
-🚀 [Link do projeto online](https://react-ignite-news-rocketseat.vercel.app/)
+🚀 [Link do projeto online](https://react-todo-rocketseat.vercel.app/)
 
 ### Tecnologias Utilizadas
 
@@ -14,9 +14,9 @@ Neste projeto desenvolvi um projeto ToDo, que lista as tarefas, conclui e exclui
 
 ### Funcionalidades
 
-- Cadastrar um tarefa
-- Alterar o estado dela de não concluído e concluído
-- Excluir tarefa
+- Cadastrar uma tarefa
+- Alterar o estado de uma tarefa entre não concluída e concluída
+- Excluir uma tarefa
 
 ### Como Executar o Projeto
 
